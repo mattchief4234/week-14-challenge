@@ -1,14 +1,14 @@
 [
   {
-    "title": "I got someone fired from thier job??!",
+    "name": "I got someone fired from thier job??!",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
   {
-    "title": "Which laptop should I get?",
+    "name": "Which laptop should I get?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua!"
   },
   {
-    "title": "I saw a fight between a giant rat and a rabid raccoon!?",
+    "name": "I saw a fight between a giant rat and a rabid raccoon!?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   }
   ]
